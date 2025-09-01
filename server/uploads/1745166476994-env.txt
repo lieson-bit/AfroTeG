@@ -1,0 +1,9 @@
+PORT=4000
+MONGO_URI=mongodb+srv://liesonmwale:FreelanceConnect@cluster0.bxdsy.mongodb.net/freelance?retryWrites=true&w=majority&appName=Cluster0
+TOKEN_SECRET=liesonmwale
+MODE_CODE_SENDING_EMAIL_ADDRESS=lieson.test@gmail.com
+MODE_CODE_SENDING_EMAIL_PASSWORD=eftqqxkbvvhwquvg
+JWT_SECRET=liesonmwale
+GOOGLE_CLIENT_ID=505897738016-ob573i0qfd10s4kci5couv3onuua6c5c.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+NEXT_PUBLIC_API_BASE_URL=http://localhost:4000
